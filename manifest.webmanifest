@@ -1,0 +1,9 @@
+{
+  "name": "Reporte Guardia",
+  "short_name": "Guardia",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0A0A0B",
+  "theme_color": "#0A0A0B",
+  "lang": "es"
+}
